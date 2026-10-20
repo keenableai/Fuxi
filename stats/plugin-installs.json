@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-10-20T15:31:31.892236+00:00",
+  "description": "FuXi plugin installation statistics (all-time)",
+  "metrics": {
+    "total_plugins": 3
+  },
+  "plugins": [
+    {
+      "plugin": "changelog-writer@fuxi-plugins",
+      "unique_installs": 0
+    },
+    {
+      "plugin": "diff-review@fuxi-plugins",
+      "unique_installs": 0
+    },
+    {
+      "plugin": "secret-guard@fuxi-plugins",
+      "unique_installs": 0
+    }
+  ]
+}
